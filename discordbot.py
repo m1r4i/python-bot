@@ -24,4 +24,4 @@ async def on_message(message):
         await client.send_message(message.channel, reply) 
 # botの接続と起動
 # （tokenにはbotアカウントのアクセストークンを入れてください）
-client.run('NDkxOTAxMDk5ODEzNjM0MDQ5.DoOoQw.U_r2mRjQ2PHvhUB5nk_TD05c2Xk')
+client.run('NDkxOTAxMDk5ODEzNjM0MDQ.DoOoQw.U_r2mRjQ2PHvhUB5nk_TD05c2Xk') # DUMMY LIKE REAL TOKEN
